@@ -20,7 +20,7 @@
 ## دانلود
 
 - اندروید ۷٫۰ و بالاتر.
-- آخرین نسخه (۲٫۰) را از بخش [Releases](https://github.com/the1army/dideban-app/releases/tag/2.0) دریافت کنید؛ فایل `dideban-gheimat-V2.apk` را نصب کنید.
+- آخرین نسخه (۲٫۱) را از بخش [Releases](https://github.com/the1army/dideban-app/releases/tag/2.1) دریافت کنید؛ فایل `dideban-gheimat-V2.1.apk` را نصب کنید.
 - این مخزن فقط برای انتشار نسخه‌هاست.
 
 ## تماس
