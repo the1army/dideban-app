@@ -27,6 +27,29 @@
 - فایل APK را دانلود و روی نسخه قبلی نصب کنید؛ نیازی به حذف برنامه نیست.
 - این مخزن فقط برای انتشار نسخه‌هاست.
 
+## بررسی اصالت فایل APK
+
+پیش از نصب می‌توانید مطمئن شوید فایل دانلودشده دستکاری نشده است.
+
+هش SHA-256 فایل‌ها:
+
+| نسخه | فایل | SHA-256 |
+|---|---|---|
+| ۲٫۱ | `dideban-gheimat-V2.1.apk` | `684d1a57be89d921d7f77522a8ade9937a2db139327ec542aaf98250f5c9a807` |
+| ۲٫۰ | `dideban-gheimat-V2.apk` | `c23e9cc3cba441273e0defbf49e8ebf17370fbc836c3196d4184c28ee62ae67a` |
+| ۱٫۰ | `dideban-gheimat-V1.apk` | `6b5abdb47dcc7af060bfa8ed813ab48954da170c7fd71b8f732bae9e4ac114ae` |
+
+اثر انگشت گواهی امضای برنامه (برای همهٔ نسخه‌ها یکسان است):
+
+- SHA-256: `EA:96:2E:F7:7C:2D:C6:44:5B:90:A7:93:34:88:F1:87:65:A2:C0:D8:5B:D0:80:FA:F8:EE:E6:56:24:BA:1A:DE`
+
+بررسی با خط فرمان:
+
+```
+sha256sum dideban-gheimat-V2.1.apk
+apksigner verify --print-certs dideban-gheimat-V2.1.apk
+```
+
 ## تماس
 
 - ایمیل توسعه‌دهنده: kalashlou@outlook.com
