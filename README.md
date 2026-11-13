@@ -53,3 +53,61 @@ apksigner verify --print-certs dideban-gheimat-V2.1.apk
 ## تماس
 
 - ایمیل توسعه‌دهنده: kalashlou@outlook.com
+
+---
+
+# Dideban Price (دیده‌بان قیمت)
+
+Dideban Price is a free Android app for live price tracking and market analysis; no account needed, with a fully Persian, right-to-left interface.
+
+## Features
+
+- **Live prices:** 18k and 24k gold, all coins, dollars and foreign currencies, silver, Brent oil, the Tehran stock index, cryptocurrencies, and metals — 71 items with continuous updates.
+- **Price charts:** 24-hour, 7-day, 30-day, 90-day, and 1-year charts for each item, with Jalali dates and touch-to-see the price at any point.
+- **Bubble analysis:** Coin and gold bubbles with intrinsic value and bubble percentage, to tell a fair price from the market price.
+- **Profit calculator:** Calculates the profit on gold and coin purchases, accounting for making charges and the day's price.
+- **Amount converter:** Quickly converts an amount between items (currency, gold, coins, etc.).
+- **Item comparison:** Compares the price trends of several items in one chart.
+- **Purchase ledger and asset basket:** Records purchases and shows the basket's current value.
+- **Price alerts and nightly report:** Sets a price limit for each item and receives a push notification when the price reaches it; nightly price report every night at 21:00.
+- **Home screen widget:** Shows gold, dollar, coin, and Brent oil prices on the phone's home screen.
+- **Market news and analysis:** The latest news and analysis of the gold and currency markets.
+- **Price archive:** Shows prices from past days.
+- **Light and dark themes** with full right-to-left support.
+
+## Download
+
+- Android 7.0 and above.
+- All versions are in the [Releases](https://github.com/the1army/dideban-app/releases) section:
+  - Version 2.1 (latest version): [Dideban Price 2.1](https://github.com/the1army/dideban-app/releases/tag/2.1) — file `dideban-gheimat-V2.1.apk`
+  - Version 2.0: [Dideban Price 2.0](https://github.com/the1army/dideban-app/releases/tag/2.0) — file `dideban-gheimat-V2.apk`
+  - Version 1.0: [Dideban Price 1.0](https://github.com/the1army/dideban-app/releases/tag/v1.0) — file `dideban-gheimat-V1.apk`
+- Download the APK file and install it over the previous version; no need to uninstall.
+- This repository is only for publishing versions.
+
+## Verifying the APK file's authenticity
+
+Before installing, you can make sure the downloaded file has not been tampered with.
+
+SHA-256 hashes of the files:
+
+| Version | File | SHA-256 |
+|---|---|---|
+| 2.1 | `dideban-gheimat-V2.1.apk` | `684d1a57be89d921d7f77522a8ade9937a2db139327ec542aaf98250f5c9a807` |
+| 2.0 | `dideban-gheimat-V2.apk` | `c23e9cc3cba441273e0defbf49e8ebf17370fbc836c3196d4184c28ee62ae67a` |
+| 1.0 | `dideban-gheimat-V1.apk` | `6b5abdb47dcc7af060bfa8ed813ab48954da170c7fd71b8f732bae9e4ac114ae` |
+
+App signing certificate fingerprint (the same for all versions):
+
+- SHA-256: `EA:96:2E:F7:7C:2D:C6:44:5B:90:A7:93:34:88:F1:87:65:A2:C0:D8:5B:D0:80:FA:F8:EE:E6:56:24:BA:1A:DE`
+
+Check from the command line:
+
+```
+sha256sum dideban-gheimat-V2.1.apk
+apksigner verify --print-certs dideban-gheimat-V2.1.apk
+```
+
+## Contact
+
+- Developer email: kalashlou@outlook.com
