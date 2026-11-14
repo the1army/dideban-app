@@ -21,7 +21,8 @@
 
 - اندروید ۷٫۰ و بالاتر.
 - همه نسخه‌ها در بخش [Releases](https://github.com/the1army/dideban-app/releases) هستند:
-  - نسخه ۲٫۱ (آخرین نسخه): [دیده‌بان قیمت ۲٫۱](https://github.com/the1army/dideban-app/releases/tag/2.1) — فایل `dideban-gheimat-V2.1.apk`
+  - نسخه ۲٫۲ (آخرین نسخه): [دیده‌بان قیمت ۲٫۲](https://github.com/the1army/dideban-app/releases/tag/2.2) — فایل `dideban-gheimat-V2.2.apk`
+  - نسخه ۲٫۱: [دیده‌بان قیمت ۲٫۱](https://github.com/the1army/dideban-app/releases/tag/2.1) — فایل `dideban-gheimat-V2.1.apk`
   - نسخه ۲٫۰: [دیده‌بان قیمت ۲٫۰](https://github.com/the1army/dideban-app/releases/tag/2.0) — فایل `dideban-gheimat-V2.apk`
   - نسخه ۱٫۰: [دیده‌بان قیمت ۱٫۰](https://github.com/the1army/dideban-app/releases/tag/v1.0) — فایل `dideban-gheimat-V1.apk`
 - فایل APK را دانلود و روی نسخه قبلی نصب کنید؛ نیازی به حذف برنامه نیست.
@@ -35,6 +36,7 @@
 
 | نسخه | فایل | SHA-256 |
 |---|---|---|
+| ۲٫۲ | `dideban-gheimat-V2.2.apk` | `21ea2ae62791a41067be0e9470b4bb6dc67ac7a377a85e38a41713c20bf458e9` |
 | ۲٫۱ | `dideban-gheimat-V2.1.apk` | `684d1a57be89d921d7f77522a8ade9937a2db139327ec542aaf98250f5c9a807` |
 | ۲٫۰ | `dideban-gheimat-V2.apk` | `c23e9cc3cba441273e0defbf49e8ebf17370fbc836c3196d4184c28ee62ae67a` |
 | ۱٫۰ | `dideban-gheimat-V1.apk` | `6b5abdb47dcc7af060bfa8ed813ab48954da170c7fd71b8f732bae9e4ac114ae` |
@@ -46,8 +48,8 @@
 بررسی با خط فرمان:
 
 ```
-sha256sum dideban-gheimat-V2.1.apk
-apksigner verify --print-certs dideban-gheimat-V2.1.apk
+sha256sum dideban-gheimat-V2.2.apk
+apksigner verify --print-certs dideban-gheimat-V2.2.apk
 ```
 
 ## تماس
@@ -79,7 +81,8 @@ Dideban Price is a free Android app for live price tracking and market analysis;
 
 - Android 7.0 and above.
 - All versions are in the [Releases](https://github.com/the1army/dideban-app/releases) section:
-  - Version 2.1 (latest version): [Dideban Price 2.1](https://github.com/the1army/dideban-app/releases/tag/2.1) — file `dideban-gheimat-V2.1.apk`
+  - Version 2.2 (latest version): [Dideban Price 2.2](https://github.com/the1army/dideban-app/releases/tag/2.2) — file `dideban-gheimat-V2.2.apk`
+  - Version 2.1: [Dideban Price 2.1](https://github.com/the1army/dideban-app/releases/tag/2.1) — file `dideban-gheimat-V2.1.apk`
   - Version 2.0: [Dideban Price 2.0](https://github.com/the1army/dideban-app/releases/tag/2.0) — file `dideban-gheimat-V2.apk`
   - Version 1.0: [Dideban Price 1.0](https://github.com/the1army/dideban-app/releases/tag/v1.0) — file `dideban-gheimat-V1.apk`
 - Download the APK file and install it over the previous version; no need to uninstall.
@@ -93,6 +96,7 @@ SHA-256 hashes of the files:
 
 | Version | File | SHA-256 |
 |---|---|---|
+| 2.2 | `dideban-gheimat-V2.2.apk` | `21ea2ae62791a41067be0e9470b4bb6dc67ac7a377a85e38a41713c20bf458e9` |
 | 2.1 | `dideban-gheimat-V2.1.apk` | `684d1a57be89d921d7f77522a8ade9937a2db139327ec542aaf98250f5c9a807` |
 | 2.0 | `dideban-gheimat-V2.apk` | `c23e9cc3cba441273e0defbf49e8ebf17370fbc836c3196d4184c28ee62ae67a` |
 | 1.0 | `dideban-gheimat-V1.apk` | `6b5abdb47dcc7af060bfa8ed813ab48954da170c7fd71b8f732bae9e4ac114ae` |
@@ -104,8 +108,8 @@ App signing certificate fingerprint (the same for all versions):
 Check from the command line:
 
 ```
-sha256sum dideban-gheimat-V2.1.apk
-apksigner verify --print-certs dideban-gheimat-V2.1.apk
+sha256sum dideban-gheimat-V2.2.apk
+apksigner verify --print-certs dideban-gheimat-V2.2.apk
 ```
 
 ## Contact
