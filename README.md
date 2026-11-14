@@ -36,7 +36,7 @@
 
 | نسخه | فایل | SHA-256 |
 |---|---|---|
-| ۲٫۲ | `dideban-gheimat-V2.2.apk` | `21ea2ae62791a41067be0e9470b4bb6dc67ac7a377a85e38a41713c20bf458e9` |
+| ۲٫۲ | `dideban-gheimat-V2.2.apk` | `f5f0737bca254642b3183acaa0f49bc8dbe49a5811238d48b23eaa0ecaf5339d` |
 | ۲٫۱ | `dideban-gheimat-V2.1.apk` | `684d1a57be89d921d7f77522a8ade9937a2db139327ec542aaf98250f5c9a807` |
 | ۲٫۰ | `dideban-gheimat-V2.apk` | `c23e9cc3cba441273e0defbf49e8ebf17370fbc836c3196d4184c28ee62ae67a` |
 | ۱٫۰ | `dideban-gheimat-V1.apk` | `6b5abdb47dcc7af060bfa8ed813ab48954da170c7fd71b8f732bae9e4ac114ae` |
@@ -96,7 +96,7 @@ SHA-256 hashes of the files:
 
 | Version | File | SHA-256 |
 |---|---|---|
-| 2.2 | `dideban-gheimat-V2.2.apk` | `21ea2ae62791a41067be0e9470b4bb6dc67ac7a377a85e38a41713c20bf458e9` |
+| 2.2 | `dideban-gheimat-V2.2.apk` | `f5f0737bca254642b3183acaa0f49bc8dbe49a5811238d48b23eaa0ecaf5339d` |
 | 2.1 | `dideban-gheimat-V2.1.apk` | `684d1a57be89d921d7f77522a8ade9937a2db139327ec542aaf98250f5c9a807` |
 | 2.0 | `dideban-gheimat-V2.apk` | `c23e9cc3cba441273e0defbf49e8ebf17370fbc836c3196d4184c28ee62ae67a` |
 | 1.0 | `dideban-gheimat-V1.apk` | `6b5abdb47dcc7af060bfa8ed813ab48954da170c7fd71b8f732bae9e4ac114ae` |
